@@ -16,7 +16,6 @@
     "types": ["@types/babel__core"]
   },
   "include": [
-    "src",
     "vite.config.ts",
     "api"
   ]
