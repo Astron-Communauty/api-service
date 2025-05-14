@@ -1,0 +1,57 @@
+# Node.js specific files and folders
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+logs/
+*.log
+logs/*.log
+
+# Environment variables
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+out/
+
+# Dependency directories
+jspm_packages/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Debugging files
+*.log.*
+
+# Miscellaneous
+*.swp
+*.bak
+*.orig
+*.rej
